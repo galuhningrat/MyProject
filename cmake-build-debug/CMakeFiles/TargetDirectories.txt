@@ -1,0 +1,3 @@
+C:/Users/Pc/Documents/C++_CLionProject/Exercise/PakSiswo/helloCoba/cmake-build-debug/CMakeFiles/helloCoba.dir
+C:/Users/Pc/Documents/C++_CLionProject/Exercise/PakSiswo/helloCoba/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pc/Documents/C++_CLionProject/Exercise/PakSiswo/helloCoba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
